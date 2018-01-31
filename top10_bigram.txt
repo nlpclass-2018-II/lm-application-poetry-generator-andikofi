@@ -1,0 +1,24 @@
+top 10 bigram words:
+-poetry chairil anwar:
+1.'Beta', 'Pattirajawane'
+2.'tidak', 'lagi'
+3.'di', 'malam'
+4.'Menjaga', 'Bung'
+5.'Bung', 'Karno'
+6.'di', 'atas'
+7.'Aku', 'mau'
+8.'Dan', 'aku'
+9.'angin', 'lalu'
+10.'Tuhanku', 'Aku'
+
+-poetry sapardi darmono:
+1.'harus', 'menjadi'
+2.'selembar', 'daun'
+3.'bulan', 'Juni'
+4.'suatu', 'hari'
+5.'Aku', 'ingin'
+6.'dengan', 'sederhana'
+7.'yang', 'tak'
+8.'Tak', 'ada'
+9.'ada', 'yang'
+10.'yang', 'lebih'

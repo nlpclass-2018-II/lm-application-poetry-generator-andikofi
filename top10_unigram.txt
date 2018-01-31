@@ -1,0 +1,24 @@
+top 10 unigram words:
+-poetry chairil anwar:
+1.'di'
+2.'dan'
+3.'yang'
+4.'aku'
+5.'lagi'
+6.'dalam'
+7.'kami'
+8.'bisa'
+9.'tidak'
+10.'Di'
+
+-poetry sapardi darmono:
+1.'yang'
+2.'tak'
+3.'di'
+4.'hujan'
+5.'harus'
+6.'Aku'
+7.'ingin'
+8.'daun'
+9.'aku'
+10'akan'
